@@ -1,0 +1,7 @@
+COMANDOS GIT GITHUB
+
+- GIT CLONE: cria a pasta do repositório no PC
+
+- CD "nome do repositório": vou na pasta acima (MAIN)
+
+- GIT STATUS: verifico e confirmo em que local estou e se todos os dados estão OK, importados etc.
